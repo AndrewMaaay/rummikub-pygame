@@ -13,7 +13,7 @@ This is a project was used as coursework for COMP 4008 UoN. The project is curre
 Make sure you have the **Python** environment.
 
 - Windows - Run "Start_Win.bat " 
-- ~~Macos -~~ Coming soon
+- Macos - Run "Start_Mac.app " 
 
 ### Authors - in alphabetical order
 - Coco
